@@ -2,9 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="en-US">
 <channel>
 	<title>K2P4825</title>
+	<description>K2P4825</description>
 	<link>https://strabbi.github.io/Podcast/K2P4825.xml</link>
 	<item>
 		<title>Cortex_Upgrade_2016.mp3</title>
+		<description>Cortex_Upgrade_2016.mp3</description>
 		<link>https://strabbi.github.io/Podcast/Cortex_Upgrade_2016.mp3</link>
 	</item>
 	<item>
