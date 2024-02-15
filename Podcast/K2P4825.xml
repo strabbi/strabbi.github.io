@@ -3,39 +3,48 @@
 <channel>
 	<title>K2P4825</title>
 	<description>K2P4825</description>
+	<language>en-us</language>
 	<link>https://strabbi.github.io/Podcast/K2P4825.xml</link>
 	<item>
 		<title>Cortex_Upgrade_2016.mp3</title>
 		<description>Cortex_Upgrade_2016.mp3</description>
-		<link>https://strabbi.github.io/Podcast/Cortex_Upgrade_2016.mp3</link>
+		<pubDate>Sat, 14 Mar 2009 03:00:00 +0000</pubDate>
+		<enclosure url="https://strabbi.github.io/Podcast/Cortex_Upgrade_2016.mp3" type="audio/mpeg"/>
 	</item>
 	<item>
 		<title>Cortex_Upgrade_2017.mp3</title>
 		<link>https://strabbi.github.io/Podcast/Cortex_Upgrade_2017.mp3</link>
+		<enclosure url="https://strabbi.github.io/Podcast/Cortex_Upgrade_2017.mp3" type="audio/mpeg"/>
 	</item>
 	<item>
 		<title>cortex_upgrade_2018_in_space.mp3</title>
 		<link>https://strabbi.github.io/Podcast/cortex_upgrade_2018_in_space.mp3</link>
+		<enclosure url="https://strabbi.github.io/Podcast/cortex_upgrade_2018_in_space.mp3" type="audio/mpeg"/>
 	</item>
 	<item>
 		<title>cortex_upgrade_2019.mp3</title>
 		<link>https://strabbi.github.io/Podcast/cortex_upgrade_2019.mp3</link>
+		<enclosure url="https://strabbi.github.io/Podcast/cortex_upgrade_2019.mp3" type="audio/mpeg"/>
 	</item>
 	<item>
 		<title>Devin-Seghers-Conquering-Guilt-October_14__2018.mp3</title>
 		<link>https://strabbi.github.io/Podcast/Devin-Seghers-Conquering-Guilt-October_14__2018.mp3</link>
+		<enclosure url="https://strabbi.github.io/Podcast/Devin-Seghers-Conquering-Guilt-October_14__2018.mp3" type="audio/mpeg"/>
 	</item>
 	<item>
 		<title>Hillsdale_June_15_2014_Living_Steadfastness.mp3</title>
 		<link>https://strabbi.github.io/Podcast/Hillsdale_June_15_2014_Living_Steadfastness.mp3</link>
+		<enclosure url="https://strabbi.github.io/Podcast/Hillsdale_June_15_2014_Living_Steadfastness.mp3" type="audio/mpeg"/>
 	</item>
 	<item>
 		<title>Charles_Stanley_Abused_Part1_2022_01_17_0DA6C.mp3</title>
 		<link>https://strabbi.github.io/Podcast/Charles_Stanley_Abused_Part1_2022_01_17_0DA6C.mp3</link>
+		<enclosure url="https://strabbi.github.io/Podcast/Charles_Stanley_Abused_Part1_2022_01_17_0DA6C.mp3" type="audio/mpeg"/>
 	</item>
 	<item>
 		<title>Charles_Stanley_Abused_Part2_2022_01_18_759C5.mp3</title>
 		<link>https://strabbi.github.io/Podcast/Charles_Stanley_Abused_Part2_2022_01_18_759C5.mp3</link>
+		<enclosure url="https://strabbi.github.io/Podcast/Charles_Stanley_Abused_Part2_2022_01_18_759C5.mp3" type="audio/mpeg"/>
 	</item>
     </channel>
 </rss>
